@@ -1,0 +1,22 @@
+{
+  "name": "selenium",
+  "version": "0.0.0",
+  "description": "Files containing different selenium tests",
+  "main": "campus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabioacd/selenium.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabioacd/selenium/issues"
+  },
+  "homepage": "https://github.com/fabioacd/selenium#readme",
+  "dependencies": {
+    "selenium-webdriver": "^3.6.0"
+  }
+}
